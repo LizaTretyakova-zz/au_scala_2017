@@ -1,0 +1,9 @@
+.idea/
+project/project/
+project/target/
+src/main/scala/DogeExmplBot.scala
+src/main/scala/bot.token
+src/main/scala/hs_err_pid28383.log
+src/main/scala/target/
+target/
+
